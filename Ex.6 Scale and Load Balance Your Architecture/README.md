@@ -3,7 +3,9 @@
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+Author : Haridharshini J
+Reg no : 212224040098  
+Date : 19.03.26
 
 ---
 
@@ -71,6 +73,16 @@ Describe step-by-step how you performed this experiment in your own words.
 ---
 
 ## Output Screenshots 
+
+# Created LoadBalancer
+<img width="1920" height="1200" alt="Screenshot (1386)" src="https://github.com/user-attachments/assets/4e63b18c-3fa2-49b9-a7d4-fccc03857023" />
+
+# Created LabConfig
+<img width="1920" height="1200" alt="Screenshot (1387)" src="https://github.com/user-attachments/assets/d8ca469d-677f-4d26-9aca-1076a57d4356" />
+
+# Dynamic Scaling Policy created
+
+<img width="1920" height="1200" alt="Screenshot (1389)" src="https://github.com/user-attachments/assets/279bca0b-8e38-4315-a91c-f28ba2291efa" />
 
 
 ---
