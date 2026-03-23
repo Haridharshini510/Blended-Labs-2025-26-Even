@@ -1,4 +1,4 @@
-# Build Your VPC and Launch a Web Server (AWS) 
+# EX-2 Build Your VPC and Launch a Web Server (AWS) 
 
 ## Author
 
